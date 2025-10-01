@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Fullstack Dev**
 
-- 👨‍💻 All of my projects are available at [www.burakdemir.website](www.burakdemir.website)
+- 👨‍💻 All of my projects are available at [www.burakdemir.blog](www.burakdemir.blog)
 
 - 💬 Ask me about **React and Node.js**
 
